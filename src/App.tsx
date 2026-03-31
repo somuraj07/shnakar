@@ -518,11 +518,7 @@ export default function App() {
 
       <footer className="section-shell mb-28 flex flex-col gap-3 border-t border-slate-200 py-8 text-sm text-slate-500 dark:border-white/10 dark:text-slate-400 md:flex-row md:items-center md:justify-between">
         <p>© 2026 {SITE.name}. All rights reserved.</p>
-        <div className="flex items-center gap-3">
-          <span>{LANGUAGE_OPTIONS.find((option) => option.code === language)?.label ?? 'English'}</span>
-          <span>•</span>
-          <p>Reference-inspired structure based on yashkapure.com</p>
-        </div>
+       
       </footer>
 
       <div className="fixed inset-x-0 bottom-4 z-50 hidden px-4 lg:block">
