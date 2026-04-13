@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-label="SSE Stocks placeholder">
+  <defs>
+    <linearGradient id="g5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#4b5563"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="800" fill="url(#g5)"/>
+  <rect x="120" y="160" width="300" height="300" rx="18" fill="#e5e7eb" opacity="0.18"/>
+  <rect x="470" y="210" width="300" height="250" rx="18" fill="#e5e7eb" opacity="0.16"/>
+  <rect x="820" y="250" width="300" height="210" rx="18" fill="#e5e7eb" opacity="0.14"/>
+  <text x="120" y="620" fill="#ffffff" font-family="Arial, sans-serif" font-size="64" font-weight="700">SSE Stocks</text>
+  <text x="120" y="690" fill="#d1d5db" font-family="Arial, sans-serif" font-size="32">College inventory and goods</text>
+</svg>

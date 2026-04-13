@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-label="ERP Student Management System placeholder">
+  <defs>
+    <linearGradient id="erpBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="800" fill="url(#erpBg)"/>
+  <rect x="90" y="120" width="1100" height="560" rx="28" fill="#e2e8f0" opacity="0.14"/>
+  <rect x="150" y="210" width="280" height="170" rx="16" fill="#bfdbfe" opacity="0.32"/>
+  <rect x="470" y="210" width="280" height="170" rx="16" fill="#bfdbfe" opacity="0.26"/>
+  <rect x="790" y="210" width="280" height="170" rx="16" fill="#bfdbfe" opacity="0.2"/>
+  <text x="120" y="520" fill="#ffffff" font-family="Arial, sans-serif" font-size="58" font-weight="700">ERP Student Management</text>
+  <text x="120" y="585" fill="#dbeafe" font-family="Arial, sans-serif" font-size="30">Fees, hostel, transport and reconciliation</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-label="Blood Donor Discovery Module placeholder">
+  <defs>
+    <linearGradient id="bloodBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7f1d1d"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="800" fill="url(#bloodBg)"/>
+  <circle cx="220" cy="210" r="100" fill="#fecaca" opacity="0.22"/>
+  <circle cx="1060" cy="600" r="130" fill="#fee2e2" opacity="0.2"/>
+  <rect x="120" y="130" width="1040" height="540" rx="24" fill="#fff1f2" opacity="0.1"/>
+  <text x="150" y="390" fill="#ffffff" font-family="Arial, sans-serif" font-size="60" font-weight="700">Blood Donor Discovery</text>
+  <text x="150" y="455" fill="#fee2e2" font-family="Arial, sans-serif" font-size="32">Emergency matching for student donors</text>
+</svg>

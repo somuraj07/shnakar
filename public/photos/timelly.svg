@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-label="ERP Student Management placeholder">
+  <defs>
+    <linearGradient id="timellyBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="800" fill="url(#timellyBg)"/>
+  <rect x="80" y="110" width="1120" height="580" rx="24" fill="#f8fafc" opacity="0.14"/>
+  <rect x="130" y="190" width="280" height="190" rx="16" fill="#e2e8f0" opacity="0.35"/>
+  <rect x="450" y="190" width="320" height="190" rx="16" fill="#e2e8f0" opacity="0.28"/>
+  <rect x="810" y="190" width="320" height="190" rx="16" fill="#e2e8f0" opacity="0.22"/>
+  <text x="130" y="520" fill="#ffffff" font-family="Arial, sans-serif" font-size="60" font-weight="700">ERP Student Management</text>
+  <text x="130" y="585" fill="#dbeafe" font-family="Arial, sans-serif" font-size="30">Multi-tenant workflows, fees, hostel and transport</text>
+</svg>

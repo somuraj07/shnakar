@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-label="Blog project placeholder">
+  <defs>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="800" fill="url(#g2)"/>
+  <rect x="90" y="120" width="1100" height="560" rx="24" fill="#f8fafc" opacity="0.12"/>
+  <text x="120" y="360" fill="#ffffff" font-family="Arial, sans-serif" font-size="64" font-weight="700">SMK Blog</text>
+  <text x="120" y="430" fill="#cbd5e1" font-family="Arial, sans-serif" font-size="32">Publishing platform and posts</text>
+</svg>

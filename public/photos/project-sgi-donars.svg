@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-label="SGI Donars project placeholder">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7f1d1d"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="800" fill="url(#g1)"/>
+  <circle cx="180" cy="170" r="90" fill="#fecaca" opacity="0.2"/>
+  <circle cx="1120" cy="660" r="120" fill="#fee2e2" opacity="0.2"/>
+  <text x="90" y="360" fill="#ffffff" font-family="Arial, sans-serif" font-size="64" font-weight="700">SGI Donars</text>
+  <text x="90" y="430" fill="#fee2e2" font-family="Arial, sans-serif" font-size="32">College + Hospital donor matching</text>
+</svg>

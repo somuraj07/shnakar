@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-label="Unity 7 ERP placeholder">
+  <defs>
+    <linearGradient id="g6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c4a6e"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="800" fill="url(#g6)"/>
+  <rect x="95" y="120" width="1090" height="560" rx="26" fill="#f0f9ff" opacity="0.16"/>
+  <text x="130" y="360" fill="#ffffff" font-family="Arial, sans-serif" font-size="64" font-weight="700">Unity 7 ERP (U7)</text>
+  <text x="130" y="430" fill="#e0f2fe" font-family="Arial, sans-serif" font-size="32">Multi-tenant school management system</text>
+</svg>

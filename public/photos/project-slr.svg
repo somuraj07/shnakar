@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-label="SLR saree store placeholder">
+  <defs>
+    <linearGradient id="g8" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#831843"/>
+      <stop offset="100%" stop-color="#db2777"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="800" fill="url(#g8)"/>
+  <rect x="100" y="130" width="500" height="540" rx="20" fill="#fdf2f8" opacity="0.15"/>
+  <rect x="670" y="130" width="500" height="540" rx="20" fill="#fce7f3" opacity="0.12"/>
+  <text x="120" y="380" fill="#ffffff" font-family="Arial, sans-serif" font-size="64" font-weight="700">SLR Saree Store</text>
+  <text x="120" y="450" fill="#fbcfe8" font-family="Arial, sans-serif" font-size="32">E-commerce website for sarees</text>
+</svg>

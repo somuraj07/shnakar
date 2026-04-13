@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800" role="img" aria-label="SMS QR platform placeholder">
+  <defs>
+    <linearGradient id="sseBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="800" fill="url(#sseBg)"/>
+  <rect x="95" y="120" width="1090" height="560" rx="26" fill="#ecfeff" opacity="0.12"/>
+  <rect x="165" y="205" width="220" height="220" rx="22" fill="#ccfbf1" opacity="0.25"/>
+  <rect x="425" y="205" width="220" height="220" rx="22" fill="#ccfbf1" opacity="0.22"/>
+  <rect x="685" y="205" width="220" height="220" rx="22" fill="#ccfbf1" opacity="0.19"/>
+  <rect x="945" y="205" width="160" height="220" rx="22" fill="#ccfbf1" opacity="0.17"/>
+  <text x="140" y="525" fill="#ffffff" font-family="Arial, sans-serif" font-size="58" font-weight="700">SMS QR-Based College Platform</text>
+  <text x="140" y="590" fill="#d1fae5" font-family="Arial, sans-serif" font-size="30">Attendance, complaints, outpass and campus operations</text>
+</svg>
